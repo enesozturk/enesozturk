@@ -10,5 +10,5 @@
 I am working as a Software Engineer in Turkey.
 
 - 🏗 I work with React/React Native mostly.
-- 📝 I blog at [Medium](https://medium.com/@enes.ozturk/) in Turkish.
+- 📝 I blog at [Medium](https://ozturkenes.medium.com) in Turkish.
 - 🪂 I do paragliding. I love to fly in my free times in different places.
