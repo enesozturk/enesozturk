@@ -1,7 +1,7 @@
 <h3 align="center">👋🏽 hey, I'm Enes.</h3>
 
 <p align="center">
-  <a href="https://twitter.com/enesozturk">Twitter</a> •
+  <a href="https://twitter.com/enesozt_">Twitter</a> •
   <a href="https://www.linkedin.com/in/enes-ozturk/">Linkedin</a>
 </p>
 
